@@ -18,6 +18,7 @@
                 = <&macro_press &kp LGUI>
                 , <&macro_tap &kp LEFT>
                 , <&macro_release &kp LGUI>
+                , <&macro_tap &kp HOME>
                 ;
         };
         mac_end: mac_end {
@@ -27,6 +28,7 @@
                 = <&macro_press &kp LGUI>
                 , <&macro_tap &kp RIGHT>
                 , <&macro_release &kp LGUI>
+                , <&macro_tap &kp END>
                 ;
         };
     };
